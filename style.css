@@ -138,7 +138,7 @@ nav>a:not(.nav-cta):hover {
   display: flex;
   align-items: center;
   color: white;
-  background: #1b2938 url('images/hero_bg.jpg') 72% 22%/cover no-repeat;
+  background: #1b2938 url('.hero_bg.jpg') 72% 22%/cover no-repeat;
 }
 
 .hero-overlay {
